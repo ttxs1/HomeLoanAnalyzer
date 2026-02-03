@@ -1,0 +1,1 @@
+import{A as s,c as t,w as a,i as e,o as n,n as l,q as i}from"./index-Bfb6pGjQ.js";const o=s({},[["render",function(s,o){const r=e;return n(),t(r,null,{default:a(()=>[l(r,{class:"setting-item"},{default:a(()=>[l(r,{class:"setting-item-label"},{default:a(()=>[i("头像设置")]),_:1})]),_:1})]),_:1})}]]);export{o as default};
